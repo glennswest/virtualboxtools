@@ -1,0 +1,2 @@
+VBoxManage list vms 
+
